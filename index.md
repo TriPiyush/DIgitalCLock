@@ -2,7 +2,7 @@
 
 You can use the [editor on GitHub](https://github.com/TriPiyush/DIgitalCLock/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I am a backend Developer having 6+ years of experience. I am more interested in IOT based products . I Love to create application which are physical and we can control those things using apps/websites.
 
 ### Markdown
 
