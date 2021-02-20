@@ -21,8 +21,8 @@ To create this device we need below things .
 
 
  ### Step- 1
- Cut 
-
+ Cut Plywood based on your required size . 
+![Image](src)
 
 
 
