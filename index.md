@@ -20,13 +20,12 @@ To create this device we need below things .
 
 
 
-```markdown
- Step- 1
- Here i had a old plywood so i cut this 
+ ### Step- 1
+ Cut 
 
 
 
-```
+
 
 
 ```markdown
