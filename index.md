@@ -7,13 +7,18 @@ I am a backend Developer having 6+ years of experience. I am more interested in 
 ### Requirements 
 
 To create this device we need below things . 
-- List
+- Hardwares
 
 1. NodeMCU (ESP8266 12E)
 2. Neopixel Led Strip
 3. jumper wire
 4. Soldring Iron
-5. 
+
+-Softwares
+1. Nodejs
+2. Mongodb
+
+
 
 ```markdown
 Syntax highlighted code block
