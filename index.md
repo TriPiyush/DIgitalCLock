@@ -13,14 +13,14 @@ To create this device we need below things .
 2. Neopixel Led Strip
 3. jumper wire
 4. Soldring Iron
+5. Touch Switch 
 
 - Softwares
 1. Nodejs
 2. Mongodb
 
 
-
- ### Step- 1
+### Step- 1
  
  Cut Plywood based on your required size . 
 <p align="center">
@@ -28,7 +28,24 @@ To create this device we need below things .
 
 </p>
 
+### Step- 2 
+Connect Touch Switch Pin with ESP8266.
+<p align="center">
+<img src="media/IMG_20200920_004704.jpg" width="650" height="600" >
 
+</p>
+
+### Step- 3
+sticked NeoPixel Led Strip connected with Plywood design. 
+
+<p align="center">
+<img src="media/IMG_20200920_004704.jpg" width="650" height="600" >
+
+</p>
+
+### Step- 4 
+Connect Touch Switch with ESP8266 and connect with NeoPixel LED Strip. 
+and now we will start coding to create HTTP Server . 
 
 ```markdown
 Syntax highlighted code block
