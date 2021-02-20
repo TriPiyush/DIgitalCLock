@@ -1,6 +1,6 @@
 ## Digital Clock
 
-You can use the [editor on GitHub](https://github.com/TriPiyush/DIgitalCLock/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+You can use the [URL](https://tripiyush.github.io/DIgitalCLock/) to maintain and preview the content for your website in Markdown files.
 
 I am a backend Developer having 6+ years of experience. I am more interested in IOT based products . I Love to create application which are physical and we can control those things using apps/websites.I have created few of devices. Here is the explained Details of Digital Clock. 
 
