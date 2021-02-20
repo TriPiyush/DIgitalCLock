@@ -14,16 +14,17 @@ To create this device we need below things .
 3. jumper wire
 4. Soldring Iron
 
--Softwares
+- Softwares
 1. Nodejs
 2. Mongodb
 
 
 
  ### Step- 1
+ 
  Cut Plywood based on your required size . 
 <p align="center">
-<img src="https://github.com/TriPiyush/DIgitalCLock/blob/gh-pages/media/IMG_20200920_004704.jpg" width="650" height="600" >
+<img src="media/IMG_20200920_004704.jpg" width="650" height="600" >
 
 </p>
 
