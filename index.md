@@ -23,10 +23,10 @@ To create this device we need below things .
  ### Step- 1
  Cut Plywood based on your required size . 
 <p align="center">
-<img src="/media/IMG_20200920_004704.jpg" width="650" height="600" >
-  ![Image](/media/IMG_20200920_004704.jpg)
+<img src="https://github.com/TriPiyush/DIgitalCLock/media/IMG_20200920_004704.jpg" width="650" height="600" >
+
 </p>
-  ![Image](/media/IMG_20200920_004704.jpg)
+
 
 
 ```markdown
