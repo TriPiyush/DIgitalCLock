@@ -24,8 +24,9 @@ To create this device we need below things .
  Cut Plywood based on your required size . 
 <p align="center">
 <img src="/media/IMG_20200920_004704.jpg" width="650" height="600" >
+  ![Image](/media/IMG_20200920_004704.jpg)
 </p>
-
+  ![Image](/media/IMG_20200920_004704.jpg)
 
 
 ```markdown
