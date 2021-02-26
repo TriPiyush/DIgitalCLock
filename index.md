@@ -22,14 +22,14 @@ To create this device we need below things .
  
  Cut Plywood based on your required size . 
 <p align="center">
-<img src="media/IMG_20200920_004704.jpg" width="650" height="600" >
+<img src="media/IMG_20200920_004704.jpg" width="350" height="300" >
 
 </p>
 
 ### Step- 2 
 Connect Touch Switch Pin with ESP8266.
 <p align="center">
-<img src="media/IMG_20200920_004704.jpg" width="650" height="600" >
+<img src="media/GIF-210226_015600.gif" width="450" height="300" >
 
 </p>
 
@@ -37,7 +37,7 @@ Connect Touch Switch Pin with ESP8266.
 sticked NeoPixel Led Strip connected with Plywood design. 
 
 <p align="center">
-<img src="media/IMG_20200920_004704.jpg" width="650" height="600" >
+<img src="media/GIF-210226_013855.gif" width="450" height="300" >
 
 </p>
 
